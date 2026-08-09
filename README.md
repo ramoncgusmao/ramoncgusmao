@@ -28,7 +28,7 @@ Fora do trabalho eu ensino programação no canal **[codaram](https://www.youtub
 | Projeto | O que resolve | Stack |
 |---|---|---|
 | **[claude-statusline](https://github.com/ramoncgusmao/claude-statusline)** | Status line de duas linhas para o Claude Code: modelo, uso de contexto, custo da sessão e barra de rate limit com cor dinâmica. Três caminhos de instalação, do prompt colado ao setup manual. | Shell |
-| **[notasisuenem](https://github.com/ramoncgusmao/notasisuenem)** | Recebe a nota do ENEM e devolve todas as faculdades onde ela passa naquele curso — cruzando as notas de corte do SISU. | Java · Spring |
+| **[notasisuenem](https://github.com/ramoncgusmao/notasisuenem)** | Recebe a nota do ENEM e devolve todas as faculdades onde ela passa naquele curso — cruzando as notas de corte do SISU. | Java · Spring Boot · JPA · Swagger |
 | **[simulador-financiamento-imovel](https://github.com/ramoncgusmao/simulador-financiamento-imovel)** | Simula financiamento imobiliário pela Tabela SAC com amortizações extras. Roda inteiro no navegador, sem backend e sem enviar dado financeiro pra lugar nenhum. | JavaScript |
 | **[template-nestjs-auth](https://github.com/ramoncgusmao/template-nestjs-auth)** | Ponto de partida com autenticação, autorização, banco e refresh token já resolvidos — pra não reescrever isso a cada projeto novo. | NestJS · TypeScript |
 | **[repositorio_aprendendoGit](https://github.com/ramoncgusmao/repositorio_aprendendoGit)** | Referência de Git do básico ao avançado, comando por comando, em português. | Documentação |
@@ -38,8 +38,8 @@ Fora do trabalho eu ensino programação no canal **[codaram](https://www.youtub
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramoncgusmao&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&locale=pt-br" height="165" alt="Estatísticas do GitHub de Ramon Gusmão">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramoncgusmao&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8&locale=pt-br" height="165" alt="Linguagens mais usadas">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ramoncgusmao&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&locale=pt-br" height="165" alt="Estatísticas do GitHub de Ramon Gusmão">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ramoncgusmao&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8&locale=pt-br" height="165" alt="Linguagens mais usadas">
 </p>
 
 ---
